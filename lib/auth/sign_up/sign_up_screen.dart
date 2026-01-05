@@ -134,7 +134,7 @@ class SignUpScreen extends GetView<SignUpController> {
                                 ),
                               ],
                             ),
-                          ),
+                          ),cd
                         ),
                         const SizedBox(height: 67),
                         Button(
